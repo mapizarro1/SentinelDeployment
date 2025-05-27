@@ -2,7 +2,7 @@
 # 🛡️ Azure Sentinel Deployment Documentation
 
 ## 📌 Overview
-This document describes the architecture, configuration, and integration details of the Azure Sentinel deployment for the **[Project/Environment Name]** environment.
+This document describes the architecture, configuration, and integration details of the Azure Sentinel deployment for the FEDRamp environment.
 
 ## 🔧 1. Deployment Details
 
